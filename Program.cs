@@ -1,4 +1,4 @@
-﻿using System.Linq;
+using System.Linq;
 using System;
 using System.Collections.Generic;
 
@@ -142,7 +142,7 @@ namespace csharp_basic {
         static void addToArray () {
             string[] stuff = {"Meja", "Buku", "Topi", "Baju", "Kayu"};
             List<string> stuffNew = stuff.ToList();
-            stuffNew[0] = "Handuk";
+            stuffNew.Insert(0, "Handuk");
             stuffNew.Add("Celana");
             string[] stuffLagi = stuffNew.ToArray();
             foreach (var item in stuffLagi)
