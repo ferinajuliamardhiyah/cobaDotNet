@@ -1,0 +1,11 @@
+D:\csharp-basic\bin\Debug\netcoreapp2.2\csharp-basic.deps.json
+D:\csharp-basic\bin\Debug\netcoreapp2.2\csharp-basic.runtimeconfig.json
+D:\csharp-basic\bin\Debug\netcoreapp2.2\csharp-basic.runtimeconfig.dev.json
+D:\csharp-basic\bin\Debug\netcoreapp2.2\csharp-basic.dll
+D:\csharp-basic\bin\Debug\netcoreapp2.2\csharp-basic.pdb
+D:\csharp-basic\obj\Debug\netcoreapp2.2\csharp-basic.csprojAssemblyReference.cache
+D:\csharp-basic\obj\Debug\netcoreapp2.2\csharp-basic.csproj.CoreCompileInputs.cache
+D:\csharp-basic\obj\Debug\netcoreapp2.2\csharp-basic.AssemblyInfoInputs.cache
+D:\csharp-basic\obj\Debug\netcoreapp2.2\csharp-basic.AssemblyInfo.cs
+D:\csharp-basic\obj\Debug\netcoreapp2.2\csharp-basic.dll
+D:\csharp-basic\obj\Debug\netcoreapp2.2\csharp-basic.pdb
